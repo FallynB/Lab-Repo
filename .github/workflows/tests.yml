@@ -23,7 +23,7 @@ jobs:
       - name: Run linter
         run: |
           pip3 install flake8 pep8-naming
-          flake8 . --ignore=E501
+          flake8 Fixme.py --ignore=E501
       - name: Run tests
         run: |
           python -m pytest

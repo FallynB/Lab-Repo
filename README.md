@@ -26,6 +26,7 @@ This assignment will teach you:
     $ cd pytest-example
     $ git init
     $ git remote add mikeizbicki https://github.com/mikeizbicki/pytest-example
+
     ```
 
 1. Update the `README.md` file so that the urls in the test cases badge point to your forked repo
