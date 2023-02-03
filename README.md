@@ -13,7 +13,7 @@ A team of 3 is okay.
 
 **Part 1:**
 
-1. Create a new repository by clicking the "+" sign in the top right corner.
+1. Create a new repository by clicking the "+" sign in the top right corner of the github webpage.
    
    It doesn't matter what you name your repo, except that it must be different than what your partner names their repo.
    
